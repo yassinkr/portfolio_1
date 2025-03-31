@@ -40,7 +40,7 @@ export default function About() {
         >
           <motion.div variants={itemVariants} className="text-center mb-12">
             <h2 className="text-3xl md:text-4xl font-bold mb-4">
-              About <span className="text-purple-600 italic">L'Artiste</span>
+              About <span className="text-purple-600 italic">L&apos;Artiste</span>
             </h2>
             <p className="text-muted-foreground max-w-2xl mx-auto">
               I am a curator of digital experiences, devoted to the meticulous craft of creating websites that transcend

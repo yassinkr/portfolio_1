@@ -7,7 +7,7 @@ export default function Footer() {
       <div className="container mx-auto max-w-6xl">
         <div className="grid gap-8 md:grid-cols-2 lg:grid-cols-4">
           <div>
-            <h3 className="text-lg font-bold mb-4 font-handwritten">L'Atelier Digital</h3>
+            <h3 className="text-lg font-bold mb-4 font-handwritten">L&apos;Atelier Digital</h3>
             <p className="text-muted-foreground">
               Crafting exquisite digital experiences where refined aesthetics meet seamless interaction — a symphony of
               elegance.
@@ -80,7 +80,7 @@ export default function Footer() {
         </div>
 
         <div className="mt-10 pt-6 border-t text-center text-muted-foreground">
-          <p>© {new Date().getFullYear()} L'Atelier Digital. All rights reserved.</p>
+          <p>© {new Date().getFullYear()} L&apos;Atelier Digital. All rights reserved.</p>
         </div>
       </div>
     </footer>
