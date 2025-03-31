@@ -60,7 +60,7 @@ export default function Navbar() {
     >
       <div className="container flex h-16 items-center justify-between">
         <Link href="#hero" className="text-2xl font-bold text-purple-600 font-handwritten">
-          L'Atelier
+          L&apos;Atelier
         </Link>
 
         {/* Desktop Navigation */}
